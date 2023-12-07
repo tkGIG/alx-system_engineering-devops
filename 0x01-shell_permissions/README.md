@@ -8,7 +8,7 @@ Task 5, chown +x - adding execute permission to the file
 Task 6, chmod - giving permission to multiple task
 Task 7, chmod 111 -giving execution permission to all
 Task 8, chmod - setting permissions to certain people
-Task 9, setting the mode of a file
+Task 9, chmod - setting the mode of a file
 Task 10, setting mode to olleh's mode
 Task 11, adding execute permission to sub-directories
 Task 12, creatin a directory and giving it permissions
