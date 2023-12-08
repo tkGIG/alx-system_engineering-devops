@@ -13,4 +13,5 @@ Task 10,chmod --reference - setting mode same as the  olleh's mode
 Task 11, adding execute permission to sub-directories
 Task 12, creatin a directory and giving it permissions
 Task 13, changing the group owner of a file
-Task 14,
+Task 14, changing ownership for all files and directories
+Task 15, 
